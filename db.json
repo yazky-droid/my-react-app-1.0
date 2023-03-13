@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 879
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 767
+    },
+    {
+      "title": "Product 3",
+      "price": "1234",
+      "id": 3
+    },
+    {
+      "title": "Product dari Production",
+      "price": "999",
+      "id": 4
+    },
+    {
+      "title": "Product HP Updated",
+      "price": "80009",
+      "id": 5
+    }
+  ]
+}
